@@ -12,7 +12,8 @@
 
 <h3 align="center">A passionate frontend developer </h3>
 
-![Alt Text](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ee/07/a0/ee07a0c971224eef111a9393277bf390.jpg">
+
 
 
 <h3 align="left">Connect with me</h3>
