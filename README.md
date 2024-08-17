@@ -12,7 +12,7 @@
 
 <h3 align="center">A passionate frontend developer </h3>
 
-<img align="right" alt="Coding" width="50" src="https://i.pinimg.com/736x/ee/07/a0/ee07a0c971224eef111a9393277bf390.jpg">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYGakCU_wFAbgS4bwR7i_uL9SkGPw-jYZtA&s">
 
 
 
