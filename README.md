@@ -1,4 +1,4 @@
-![MasterHead](https://static2.bigstockphoto.com/8/7/3/large1500/378562474.jpg)
+![MasterHead]([https://static2.bigstockphoto.com/8/7/3/large1500/378562474.jpg](https://graphicriver.img.customer.envatousercontent.com/files/254871361/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=99626d12211ff215d8e764a162fb5a82)
 ## Hi there 👋 , I'm Sewwandi
 
  🔭 Undergraduate University of Moratuwa ✨ 
