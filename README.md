@@ -1,4 +1,8 @@
-![MasterHead](https://graphicriver.img.customer.envatousercontent.com/files/254871361/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=99626d12211ff215d8e764a162fb5a82)
+<div align="center">
+  <img alt="MasterHead" width="800" height="300" src="https://graphicriver.img.customer.envatousercontent.com/files/254871361/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=99626d12211ff215d8e764a162fb5a82">
+</div>
+
+
 ## Hi there 👋 , I'm Sewwandi
 
  🔭 Undergraduate University of Moratuwa ✨ 
